@@ -1,11 +1,11 @@
-# ⚽ Bolão da Copa do Mundo – Edição Restrita
+# ⚽ Bolão da Copa do Mundo – Apenas elementos básicos
 
 Programa em C++ para gerenciar um pequeno bolão de palpites dos jogos da Copa do Mundo.  
 Desenvolvido **usando apenas tipos primitivos** (`int`, `char`, `bool`), sem vetores, arrays ou strings, conforme restrição do desafio.
 
 ## 🎯 Regras do Bolão
 
-- São **4 jogos** (fixos) por rodada.
+- São **3 jogos** (fixos) por rodada.
 - Cada apostador informa o **placar exato** que ele acredita (gols do time1 e gols do time2).
 - A pontuação por jogo é calculada assim:
 
